@@ -1,21 +1,7 @@
 # Summoners
 
-**TODO: Add description**
+Web-less version of summoners project
 
-## Installation
+## API
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `summoners` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:summoners, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/summoners](https://hexdocs.pm/summoners).
-
+Client function `Summoners.search_summoner/2` is in `summoners.ex`
